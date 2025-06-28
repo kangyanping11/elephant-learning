@@ -1,9 +1,9 @@
 <template>
-    <div class="flex flex-col min-h-screen bg-amber-100">
+    <div class="flex flex-col min-h-screen">
         <!-- 顶部导航栏 -->
         <HeaderHtml></HeaderHtml>
         <!-- 中间内容区域 -->
-        <main class="mt-18 p-4">
+        <main class="mt-18">
             <router-view></router-view>
         </main>
         <!-- 底部 -->
