@@ -214,29 +214,29 @@
             <div class="grid grid-cols-1 md:grid-cols-2 gap-2 md:gap-4">
                 <div class="flex flex-col items-center gap-4 rounded-lg border border-gray-200  p-4 md:p-6 ">
 
-                    <div class="text-sm lg:text-base ">"We’ve done several collections with Ceranva. They really get our style, and the delivery’s always solid. Our customers keep coming back for the quality on their mugs is top.We has made them our go-to partner."</div>
+                    <div class="text-sm lg:text-base text-gray-600 ">"We’ve done several collections with Ceranva. They really get our style, and the delivery’s always solid. Our customers keep coming back for the quality on their mugs is top.We has made them our go-to partner."</div>
                     <div class="h-1 w-full border-b border-gray-200"></div>
-                    <div class="flex flex-row items-center gap-4">
+                    <div class="w-full flex flex-row items-center gap-4">
                         <div class="">
                             <img class="w-16 h-16 rounded-full shrink-0 object-cover" src="https://www.ceranva.com/images/say/a1.png" alt="">
                         </div>
-                        <div class="grid grid-cols-1">
-                            <span class="text-xl md:text-2xl font-semibold">Sarah Johnson</span>
-                            <span class="text-gray-500 text-sm md:text-base">Purchasing Manager, HomeStyle inc.</span>
+                        <div class="grid grid-cols-1 gap-2">
+                            <span class="text-base lg:text-xl font-medium">Sarah Johnson</span>
+                            <span class="text-gray-500 text-sm lg:text-base">Purchasing Manager, HomeStyle inc.</span>
                         </div>
                     </div>
 
                 </div>
                 <div class="flex flex-col items-center gap-4 rounded-lg border border-gray-200  p-4 md:p-6 ">
-                    <div class="text-sm lg:text-base ">What we like most about Ceranva is how easy they are to work with. Fast samples, thoughtful designs, and shipments that arrive exactly how we want them. It feels like they’re part of our own team.</div>
+                    <div class="text-sm lg:text-base text-gray-600">What we like most about Ceranva is how easy they are to work with. Fast samples, thoughtful designs, and shipments that arrive exactly how we want them. It feels like they’re part of our own team.</div>
                     <div class="h-1 w-full border-b border-gray-200"></div>
-                    <div class="flex flex-row items-center gap-4">
+                    <div class="w-full flex flex-row items-center gap-4">
                         <div class="">
                             <img class="w-16 h-16 rounded-full shrink-0 object-cover" src="https://www.ceranva.com/images/say/a3.png" alt="">
                         </div>
-                        <div class="grid grid-cols-1">
-                            <span class="text-xl md:text-2xl font-semibold">Jessica</span>
-                            <span class="text-gray-500 text-sm md:text-base">Marketing Manager, EuroStyle.</span>
+                        <div class="grid grid-cols-1 gap-2">
+                            <span class="text-base lg:text-xl font-medium">Jessica</span>
+                            <span class="text-gray-500 text-sm lg:text-base">Marketing Manager, EuroStyle.</span>
                         </div>
                     </div>
 

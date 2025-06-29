@@ -3,7 +3,7 @@
     <section
       class="flex justify-between items-start flex-col md:flex-row md:justify-normal"
     >
-      <div class="text-3xl font-bold flex items-start">Ceranva</div>
+      <div class="text-3xl font-bold flex-1 items-start">Ceranva</div>
       <ul
         class="w-full md:w-1/3 flex justify-between items-start flex-col gap-5 text-ltr"
       >
