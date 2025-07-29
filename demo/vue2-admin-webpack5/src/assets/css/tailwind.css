@@ -1,0 +1,10 @@
+/* src/assets/css/tailwind.css */
+@tailwind base; /* 引入 Tailwind CSS 的基础样式 */
+@tailwind components; /* 引入 Tailwind CSS 的组件样式 */
+@tailwind utilities; /* 引入 Tailwind CSS 的工具类样式 */
+
+/* 测试样式 - 如果生效说明 Tailwind 处理正常 */
+/* .test-tailwind {
+  color: red;
+  @apply bg-blue-200 p-4 rounded-lg;
+} */

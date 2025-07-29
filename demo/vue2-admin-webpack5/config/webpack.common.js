@@ -77,7 +77,7 @@ const commonConfig = (isProduction) => {
                 // 压缩js
                 new TerserPlugin({
                     extractComments: false, // 不提取注释
-                }),  
+                }),
             ]
         },
         module: {
@@ -101,7 +101,10 @@ const commonConfig = (isProduction) => {
                     use: [
                         isProduction ? MiniCssExtractPlugin.loader : 'style-loader',
                         'style-loader',
-                        'css-loader',
+                        {
+                            loader: 'css-loader',
+                            options: { importLoaders: 2 } // 2个 loader (postcss + sass)
+                        },
                         'postcss-loader',
                         'sass-loader'
                     ]
